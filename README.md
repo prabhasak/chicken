@@ -17,14 +17,14 @@ Add "PedestrianSimulation" to path in one of two ways:
     import sys
     sys.path.append('chicken/PedestrianSimulation') 
 
-**Reinforcement learning:** code at PedestrianSimulation/learning/reinforcement/pytorch
+**Reinforcement learning:** code at PedestrianSimulation/learning/reinforcement/pytorch \
     python -m reinforcement.pytorch.train_reinforcement
 
-**Imitation learning:** code at PedestrianSimulation/learning/imitation/pytorch
+**Imitation learning:** code at PedestrianSimulation/learning/imitation/pytorch \
     python -m imitation.pytorch.train_imitation
 
 ## Rendering Environment
-To see the simulated pedestrain in the "PedestrianSimulation" folder
+To see the simulated pedestrain in the "PedestrianSimulation" folder \
     python manual_control.py
 
 README last updated with instructions: Aug 2019
