@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22660ec2-63c7-46de-9f87-a134da37a82b" name="stmi" url="http://cse-stmi-s1.cse.tamu.edu">
+        <fileTransfer host="cse-stmi-s1.cse.tamu.edu" port="22" rootFolder="/home/grads/k/kpranoy" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

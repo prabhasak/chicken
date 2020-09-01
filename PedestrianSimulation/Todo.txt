@@ -1,0 +1,15 @@
+ - Check the pedestrain github
+ - Pedestrain track in the following
+			Duckietown-udem1-v0
+			Duckietown-loop_dyn_duckiebots-v0
+			Duckietown-4way-v0
+			Duckietown-loop_pedestrians-v0
+			Duckietown-zigzag_dists-v0
+			Duckietown-small_loop_cw-v0
+			Duckietown-loop_obstacles-v0
+			Duckietown-loop_empty-v0
+			Duckietown-small_loop-v0
+			Duckietown-straight_road-v0
+ - Check the pedestrain training in the following
+ - Check how is the car controlled in manual mode
+ - Can the pedestrain be controlled in similar ways

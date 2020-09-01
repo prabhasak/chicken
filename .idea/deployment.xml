@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="kpranoy@cse-stmi-s1.cse.tamu.edu:22" deleteMissingItems="true" autoUploadExternalChanges="true" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="kpranoy@cse-stmi-s1.cse.tamu.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/grads/k/kpranoy/DeployedProjects/IRL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="stmi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="DeployedProjects/IRL" local="$PROJECT_DIR$" web="DeployedProjects/IRL" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

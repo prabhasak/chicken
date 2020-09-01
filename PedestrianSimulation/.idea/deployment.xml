@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="stmi" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="stmi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="DeployedProjects/pedestrain-simulation" local="$PROJECT_DIR$/../pedestrain_simulation" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

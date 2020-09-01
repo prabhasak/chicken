@@ -1,0 +1,44 @@
+# This is a open loop (no intersections) with a few obstacles directly
+# on the road, which have to be avoided.
+
+# Map Design
+#  0    , 1         , 2
+#0 floor, floor     , floor
+#1 floor, straight/W, floor
+#2 floor, straight/W, floor
+#3 floor, straight/W, floor
+#4 floor, straight/W, floor
+#5 floor, straight/W, floor
+#6 floor, straight/W, floor
+#7 floor, floor     , floor
+
+
+tiles:
+  - [floor  , floor      , floor      , floor      , floor      ,floor]
+  - [floor  , floor      , straight/N , straight/N , floor      ,floor]
+  - [floor  , straight/W , 4way       , 4way       , straight/W ,floor]
+  - [floor  , floor      , straight/N , straight/N , floor      ,floor]
+  - [floor  , floor      , floor      , floor      , floor      ,floor]
+
+# NOTE: obstacles cannot be optional, because they will change for
+# every episode, and this will interfere with imitation learning
+objects:
+
+  - kind: duckie
+    pos: [3.5, 1.0]
+    rotate: 270
+    height: 0.06
+    static: False
+
+  - kind: duckie
+    pos: [2.5, 4.0]
+    rotate: 90
+    height: 0.06
+    static: False
+
+  - kind: duckie
+    pos: [3, 2.0]
+    rotate: 270
+    height: 0.06
+
+tile_size: 0.585

@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeeddd8d-836a-46b9-9053-ac376a16f90d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Todo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym_tutorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark.py" beforeDir="false" afterPath="$PROJECT_DIR$/benchmark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/AIDO1/server-python3/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker/AIDO1/server-python3/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/basic_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/basic_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free_camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/collision.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/collision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/envs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/envs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/envs/duckiebot_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/envs/duckiebot_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/envs/duckietown_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/envs/duckietown_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/envs/multimap_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/envs/multimap_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/graphics.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/graphics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/launcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/launcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/4way.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/4way.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/loop_dyn_duckiebots.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/loop_dyn_duckiebots.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/loop_empty.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/loop_empty.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/loop_obstacles.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/loop_obstacles.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/loop_pedestrians.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/loop_pedestrians.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/regress_4way_adam.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/regress_4way_adam.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/regress_4way_drivable.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/regress_4way_drivable.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/small_loop.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/small_loop.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/small_loop_cw.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/small_loop_cw.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/straight_road.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/straight_road.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/udem1.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/udem1.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/maps/zigzag_dists.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/maps/zigzag_dists.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/objmesh.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/objmesh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/randomization/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/randomization/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/randomization/randomizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/randomization/randomizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/simulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gym_duckietown/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/gym_duckietown/wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joystick_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/joystick_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/imitation/pytorch/enjoy_imitation.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/imitation/pytorch/enjoy_imitation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/imitation/pytorch/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/imitation/pytorch/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/imitation/pytorch/train_imitation.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/imitation/pytorch/train_imitation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/imitation/tensorflow/_layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/imitation/tensorflow/_layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/imitation/tensorflow/train_imitation.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/imitation/tensorflow/train_imitation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/reinforcement/pytorch/ddpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/reinforcement/pytorch/ddpg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/reinforcement/pytorch/enjoy_reinforcement.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/reinforcement/pytorch/enjoy_reinforcement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/reinforcement/pytorch/train_reinforcement.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/reinforcement/pytorch/train_reinforcement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/reinforcement/pytorch/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/reinforcement/pytorch/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/utils/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/utils/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/utils/teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/utils/teacher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/utils/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/utils/wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manual_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/manual_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/loop_pedestrians.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="17" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/pedestrain_moving.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manual_control.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="118" column="11" lean-forward="true" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning/utils/env.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gym_duckietown/simulator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2380">
+              <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+              <folding>
+                <element signature="e#225#290#0" />
+                <element signature="e#1027#1074#0" />
+                <element signature="e#1283#1335#0" />
+                <element signature="e#1492#1555#0" />
+                <element signature="e#1699#1719#0" />
+                <element signature="e#2161#2206#0" />
+                <element signature="e#2652#2892#0" />
+                <element signature="e#2684#2892#0" />
+                <element signature="e#2927#2987#0" />
+                <element signature="e#4050#4753#1" />
+                <element signature="e#8182#8296#0" />
+                <element signature="e#8213#8296#0" />
+                <element signature="e#8584#8731#0" />
+                <element signature="e#9826#9980#1" />
+                <element signature="e#12681#12944#0" />
+                <element signature="e#13146#13404#0" />
+                <element signature="e#13489#13800#0" />
+                <element signature="e#15022#15080#0" />
+                <element signature="e#15422#15522#0" />
+                <element signature="e#15422#15459#0" />
+                <element signature="e#15654#15749#0" />
+                <element signature="e#16185#16301#0" />
+                <element signature="e#16626#16686#1" />
+                <element signature="e#19378#23362#0" />
+                <element signature="e#22881#22936#0" />
+                <element signature="e#23080#23215#0" />
+                <element signature="e#23393#23397#0" />
+                <element signature="e#23725#23800#1" />
+                <element signature="e#24071#24577#0" />
+                <element signature="e#24071#24155#1" />
+                <element signature="e#24660#26296#0" />
+                <element signature="e#24660#24876#1" />
+                <element signature="e#25015#25142#0" />
+                <element signature="e#25604#25774#0" />
+                <element signature="e#25785#25840#0" />
+                <element signature="e#26048#26151#0" />
+                <element signature="e#26346#26792#0" />
+                <element signature="e#26346#26638#1" />
+                <element signature="e#26834#32087#0" />
+                <element signature="e#26834#26914#1" />
+                <element signature="e#27051#27104#0" />
+                <element signature="e#27212#27642#0" />
+                <element signature="e#27227#27619#0" />
+                <element signature="e#27245#27418#0" />
+                <element signature="e#27436#27605#0" />
+                <element signature="e#27691#28120#0" />
+                <element signature="e#27706#28097#0" />
+                <element signature="e#27724#27894#0" />
+                <element signature="e#27912#28083#0" />
+                <element signature="e#28170#28604#0" />
+                <element signature="e#28185#28581#0" />
+                <element signature="e#28203#28378#0" />
+                <element signature="e#28397#28567#0" />
+                <element signature="e#28709#29891#0" />
+                <element signature="e#28724#29868#0" />
+                <element signature="e#28742#28915#0" />
+                <element signature="e#28933#29103#0" />
+                <element signature="e#29121#29290#0" />
+                <element signature="e#29308#29479#0" />
+                <element signature="e#29497#29664#0" />
+                <element signature="e#29682#29853#0" />
+                <element signature="e#29997#30621#0" />
+                <element signature="e#30012#30598#0" />
+                <element signature="e#30030#30200#0" />
+                <element signature="e#30218#30391#0" />
+                <element signature="e#30409#30584#0" />
+                <element signature="e#30785#31310#0" />
+                <element signature="e#30814#30849#0" />
+                <element signature="e#30949#31206#0" />
+                <element signature="e#31416#31840#0" />
+                <element signature="e#31868#32067#0" />
+                <element signature="e#32136#32367#0" />
+                <element signature="e#32136#32213#1" />
+                <element signature="e#32418#32636#0" />
+                <element signature="e#32418#32483#1" />
+                <element signature="e#32698#33679#0" />
+                <element signature="e#32698#32879#1" />
+                <element signature="e#33730#35128#0" />
+                <element signature="e#33730#33885#1" />
+                <element signature="e#33895#33955#0" />
+                <element signature="e#34096#34164#0" />
+                <element signature="e#34405#34447#0" />
+                <element signature="e#34671#34737#0" />
+                <element signature="e#35172#35670#0" />
+                <element signature="e#35172#35255#1" />
+                <element signature="e#35376#35471#0" />
+                <element signature="e#35518#35649#0" />
+                <element signature="e#35727#36881#0" />
+                <element signature="e#35727#36142#1" />
+                <element signature="e#36339#36648#0" />
+                <element signature="e#36734#36848#0" />
+                <element signature="e#36931#37238#0" />
+                <element signature="e#36931#37008#1" />
+                <element signature="e#37028#37207#0" />
+                <element signature="e#37289#38086#0" />
+                <element signature="e#37289#37349#1" />
+                <element signature="e#37947#38025#0" />
+                <element signature="e#38154#39560#0" />
+                <element signature="e#38154#38267#1" />
+                <element signature="e#38652#38688#0" />
+                <element signature="e#39214#39540#0" />
+                <element signature="e#40624#40776#0" />
+                <element signature="e#40950#42634#0" />
+                <element signature="e#41176#42563#0" />
+                <element signature="e#41176#41208#0" />
+                <element signature="e#41535#41628#0" />
+                <element signature="e#42015#42045#0" />
+                <element signature="e#42706#43042#0" />
+                <element signature="e#42811#42875#0" />
+                <element signature="e#43126#43549#0" />
+                <element signature="e#43352#43416#0" />
+                <element signature="e#43608#44133#0" />
+                <element signature="e#43924#44111#0" />
+                <element signature="e#44679#45596#0" />
+                <element signature="e#44812#45010#0" />
+                <element signature="e#45123#45324#0" />
+                <element signature="e#45351#45505#0" />
+                <element signature="e#45696#52748#0" />
+                <element signature="e#45696#45824#1" />
+                <element signature="e#45884#45915#0" />
+                <element signature="e#46747#46769#0" />
+                <element signature="e#47271#47317#0" />
+                <element signature="e#47357#47606#0" />
+                <element signature="e#47641#48063#0" />
+                <element signature="e#48090#48358#0" />
+                <element signature="e#49008#50676#0" />
+                <element signature="e#49057#50676#0" />
+                <element signature="e#49816#50676#0" />
+                <element signature="e#50503#50676#0" />
+                <element signature="e#50876#51260#0" />
+                <element signature="e#51295#51549#0" />
+                <element signature="e#51955#52006#0" />
+                <element signature="e#52450#52517#0" />
+                <element signature="e#52784#53283#0" />
+                <element signature="e#52784#52865#1" />
+                <element signature="e#53342#53406#1" />
+                <element signature="e#54121#54352#0" />
+                <element signature="e#55510#55631#0" />
+                <element signature="e#55782#55940#0" />
+                <element signature="e#55782#55851#1" />
+                <element signature="e#55977#56122#0" />
+                <element signature="e#55977#56034#1" />
+                <element signature="e#56192#57146#0" />
+                <element signature="e#56192#56303#1" />
+                <element signature="e#56443#56516#0" />
+                <element signature="e#57185#57421#0" />
+                <element signature="e#57185#57317#1" />
+                <element signature="e#57463#57661#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gym_duckietown/envs/duckiebot_env.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="64" column="30" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gym_duckietown/wrappers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/gym/core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gym_duckietown/objects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="e#727#988#0" />
+                <element signature="e#1553#2418#0" />
+                <element signature="e#2575#2826#0" />
+                <element signature="e#2890#3138#0" />
+                <element signature="e#3357#8457#0" />
+                <element signature="e#5481#5564#0" />
+                <element signature="e#5610#5692#0" />
+                <element signature="e#5760#5983#0" />
+                <element signature="e#6047#6336#0" />
+                <element signature="e#6392#8457#0" />
+                <element signature="e#9408#9631#0" />
+                <element signature="e#9695#9987#0" />
+                <element signature="e#10944#11632#0" />
+                <element signature="e#11672#13199#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_load_objects</find>
+      <find>args.env_name</find>
+      <find>safety_radius_mult</find>
+      <find>self.pedestrian_active</find>
+      <find>delta_time</find>
+      <find>domain_rand</find>
+      <find>def step</find>
+      <find>map_name</find>
+      <find>ObjMesh</find>
+      <find>tile_size</find>
+      <find>self.road_tile_size =</find>
+      <find>env-name</find>
+      <find>map-name</find>
+      <find>args</find>
+      <find>pedestrian_wait_time</find>
+      <find>reset</find>
+      <find>user_tile_start</find>
+      <find>start_tile</find>
+      <find>tile</find>
+      <find>static</find>
+      <find>heading</find>
+      <find>step</find>
+      <find>.step</find>
+      <find>.step(</find>
+      <find>kind</find>
+      <find>self.cur_pos =</find>
+      <find>CAMERA_WIDTH</find>
+      <find>self.observation_space</find>
+      <find>orient</find>
+      <find>camera</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learning/imitation/pytorch/train_imitation.py" />
+        <option value="$PROJECT_DIR$/learning/reinforcement/pytorch/enjoy_reinforcement.py" />
+        <option value="$PROJECT_DIR$/learning/reinforcement/pytorch/train_reinforcement.py" />
+        <option value="$PROJECT_DIR$/learning/utils/env.py" />
+        <option value="$PROJECT_DIR$/learning/reinforcement/pytorch/train_reinforcement.py" />
+        <option value="$PROJECT_DIR$/Todo.txt" />
+        <option value="$PROJECT_DIR$/gym_tutorial.py" />
+        <option value="$PROJECT_DIR$/gym_duckietown/maps/loop_pedestrians.yaml" />
+        <option value="$PROJECT_DIR$/gym_duckietown/objects.py" />
+        <option value="$PROJECT_DIR$/gym_duckietown/maps/pedestrain_moving.yaml" />
+        <option value="$PROJECT_DIR$/manual_control.py" />
+        <option value="$PROJECT_DIR$/gym_duckietown/simulator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-96" />
+    <option name="y" value="-1027" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pedestrain_simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pedestrain_simulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pedestrain_simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pedestrain_simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_duckietown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pedestrain_simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pedestrain_simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="gym_duckietown" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pedestrain_moving">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="free_camera" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free_camera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gym_tutorial" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gym_tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manual_control_no_rand" type="PythonConfigurationType" factoryName="Python">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manual_control.py" />
+      <option name="PARAMETERS" value="--env-name=Duckietown-loop_pedestrians-v0 --map-name=loop_pedestrians" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manual_control_rand" type="PythonConfigurationType" factoryName="Python">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manual_control.py" />
+      <option name="PARAMETERS" value="--env-name=Duckietown-loop_pedestrians-v0 --map-name=loop_pedestrians --domain-rand" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pedestrain_moving" type="PythonConfigurationType" factoryName="Python">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manual_control.py" />
+      <option name="PARAMETERS" value="--env-name=Duckietown-loop_pedestrians-v0 --map-name=pedestrain_moving" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_reinforcement" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pedestrain_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning/reinforcement/pytorch/train_reinforcement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_reinforcement" />
+      <item itemvalue="Python.manual_control_no_rand" />
+      <item itemvalue="Python.pedestrain_moving" />
+      <item itemvalue="Python.free_camera" />
+      <item itemvalue="Python.gym_tutorial" />
+      <item itemvalue="Python.manual_control_rand" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeeddd8d-836a-46b9-9053-ac376a16f90d" name="Default Changelist" comment="" />
+      <created>1561573382388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561573382388</updated>
+      <workItem from="1561573383686" duration="6251000" />
+      <workItem from="1561654119981" duration="5855000" />
+      <workItem from="1561834612889" duration="12885000" />
+      <workItem from="1562002055611" duration="10003000" />
+      <workItem from="1562175536515" duration="7721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42715000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-96" y="-1027" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18681319" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.39583334" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.49928468" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939634" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.501221" side_tool="true" weight="0.39583334" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49928468" visible="true" weight="0.3881579" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3297568" />
+      <window_info anchor="right" x="0" y="0" width="310" height="677" id="Documentation" order="5" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gym_duckietown/simulator.py</url>
+          <line>285</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gym_duckietown/simulator.py</url>
+          <line>538</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gym_duckietown/simulator.py</url>
+          <line>601</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gym_duckietown/simulator.py</url>
+          <line>674</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pedestrain_simulation$manual_control.coverage" NAME="manual_control_no_rand Coverage Results" MODIFIED="1561997546922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pedestrain_simulation$train_reinforcement.coverage" NAME="train_reinforcement Coverage Results" MODIFIED="1561668253380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning/" />
+    <SUITE FILE_PATH="coverage/pedestrain_simulation$gym_tutorial.coverage" NAME="gym_tutorial Coverage Results" MODIFIED="1561998827221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pedestrain_simulation$pedestrain_moving.coverage" NAME="pedestrain_moving Coverage Results" MODIFIED="1562179623386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pedestrain_simulation$manual_control_no_rand.coverage" NAME="manual_control_no_rand Coverage Results" MODIFIED="1562013331735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learning/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/graphics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/reinforcement/pytorch/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/reinforcement/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/utils/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/reinforcement/pytorch/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/imitation/pytorch/train_imitation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#120#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/reinforcement/pytorch/ddpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#333#851#0" />
+            <element signature="e#885#2387#0" />
+            <element signature="e#2424#2859#0" />
+            <element signature="e#2894#3984#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/reinforcement/pytorch/enjoy_reinforcement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/reinforcement/pytorch/train_reinforcement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/gym/envs/registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="165" column="4" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/gym/spaces/box.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/objmesh.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/regress_4way_adam.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/regress_4way_drivable.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/small_loop.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/gym/utils/seeding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/collision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="223" column="4" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/envs/duckietown_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#1067#2257#0" />
+            <element signature="e#2299#2632#0" />
+            <element signature="e#2675#3841#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/loop_pedestrians.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/maps/pedestrain_moving.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="e#727#988#0" />
+            <element signature="e#1553#2418#0" />
+            <element signature="e#2575#2826#0" />
+            <element signature="e#2890#3138#0" />
+            <element signature="e#3357#8457#0" />
+            <element signature="e#5481#5564#0" />
+            <element signature="e#5610#5692#0" />
+            <element signature="e#5760#5983#0" />
+            <element signature="e#6047#6336#0" />
+            <element signature="e#6392#8457#0" />
+            <element signature="e#9408#9631#0" />
+            <element signature="e#9695#9987#0" />
+            <element signature="e#10944#11632#0" />
+            <element signature="e#11672#13199#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="118" column="11" lean-forward="true" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/envs/duckiebot_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/gym/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/utils/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym_duckietown/simulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="e#225#290#0" />
+            <element signature="e#1027#1074#0" />
+            <element signature="e#1283#1335#0" />
+            <element signature="e#1492#1555#0" />
+            <element signature="e#1699#1719#0" />
+            <element signature="e#2161#2206#0" />
+            <element signature="e#2652#2892#0" />
+            <element signature="e#2684#2892#0" />
+            <element signature="e#2927#2987#0" />
+            <element signature="e#4050#4753#1" />
+            <element signature="e#8182#8296#0" />
+            <element signature="e#8213#8296#0" />
+            <element signature="e#8584#8731#0" />
+            <element signature="e#9826#9980#1" />
+            <element signature="e#12681#12944#0" />
+            <element signature="e#13146#13404#0" />
+            <element signature="e#13489#13800#0" />
+            <element signature="e#15022#15080#0" />
+            <element signature="e#15422#15522#0" />
+            <element signature="e#15422#15459#0" />
+            <element signature="e#15654#15749#0" />
+            <element signature="e#16185#16301#0" />
+            <element signature="e#16626#16686#1" />
+            <element signature="e#19378#23362#0" />
+            <element signature="e#22881#22936#0" />
+            <element signature="e#23080#23215#0" />
+            <element signature="e#23393#23397#0" />
+            <element signature="e#23725#23800#1" />
+            <element signature="e#24071#24577#0" />
+            <element signature="e#24071#24155#1" />
+            <element signature="e#24660#26296#0" />
+            <element signature="e#24660#24876#1" />
+            <element signature="e#25015#25142#0" />
+            <element signature="e#25604#25774#0" />
+            <element signature="e#25785#25840#0" />
+            <element signature="e#26048#26151#0" />
+            <element signature="e#26346#26792#0" />
+            <element signature="e#26346#26638#1" />
+            <element signature="e#26834#32087#0" />
+            <element signature="e#26834#26914#1" />
+            <element signature="e#27051#27104#0" />
+            <element signature="e#27212#27642#0" />
+            <element signature="e#27227#27619#0" />
+            <element signature="e#27245#27418#0" />
+            <element signature="e#27436#27605#0" />
+            <element signature="e#27691#28120#0" />
+            <element signature="e#27706#28097#0" />
+            <element signature="e#27724#27894#0" />
+            <element signature="e#27912#28083#0" />
+            <element signature="e#28170#28604#0" />
+            <element signature="e#28185#28581#0" />
+            <element signature="e#28203#28378#0" />
+            <element signature="e#28397#28567#0" />
+            <element signature="e#28709#29891#0" />
+            <element signature="e#28724#29868#0" />
+            <element signature="e#28742#28915#0" />
+            <element signature="e#28933#29103#0" />
+            <element signature="e#29121#29290#0" />
+            <element signature="e#29308#29479#0" />
+            <element signature="e#29497#29664#0" />
+            <element signature="e#29682#29853#0" />
+            <element signature="e#29997#30621#0" />
+            <element signature="e#30012#30598#0" />
+            <element signature="e#30030#30200#0" />
+            <element signature="e#30218#30391#0" />
+            <element signature="e#30409#30584#0" />
+            <element signature="e#30785#31310#0" />
+            <element signature="e#30814#30849#0" />
+            <element signature="e#30949#31206#0" />
+            <element signature="e#31416#31840#0" />
+            <element signature="e#31868#32067#0" />
+            <element signature="e#32136#32367#0" />
+            <element signature="e#32136#32213#1" />
+            <element signature="e#32418#32636#0" />
+            <element signature="e#32418#32483#1" />
+            <element signature="e#32698#33679#0" />
+            <element signature="e#32698#32879#1" />
+            <element signature="e#33730#35128#0" />
+            <element signature="e#33730#33885#1" />
+            <element signature="e#33895#33955#0" />
+            <element signature="e#34096#34164#0" />
+            <element signature="e#34405#34447#0" />
+            <element signature="e#34671#34737#0" />
+            <element signature="e#35172#35670#0" />
+            <element signature="e#35172#35255#1" />
+            <element signature="e#35376#35471#0" />
+            <element signature="e#35518#35649#0" />
+            <element signature="e#35727#36881#0" />
+            <element signature="e#35727#36142#1" />
+            <element signature="e#36339#36648#0" />
+            <element signature="e#36734#36848#0" />
+            <element signature="e#36931#37238#0" />
+            <element signature="e#36931#37008#1" />
+            <element signature="e#37028#37207#0" />
+            <element signature="e#37289#38086#0" />
+            <element signature="e#37289#37349#1" />
+            <element signature="e#37947#38025#0" />
+            <element signature="e#38154#39560#0" />
+            <element signature="e#38154#38267#1" />
+            <element signature="e#38652#38688#0" />
+            <element signature="e#39214#39540#0" />
+            <element signature="e#40624#40776#0" />
+            <element signature="e#40950#42634#0" />
+            <element signature="e#41176#42563#0" />
+            <element signature="e#41176#41208#0" />
+            <element signature="e#41535#41628#0" />
+            <element signature="e#42015#42045#0" />
+            <element signature="e#42706#43042#0" />
+            <element signature="e#42811#42875#0" />
+            <element signature="e#43126#43549#0" />
+            <element signature="e#43352#43416#0" />
+            <element signature="e#43608#44133#0" />
+            <element signature="e#43924#44111#0" />
+            <element signature="e#44679#45596#0" />
+            <element signature="e#44812#45010#0" />
+            <element signature="e#45123#45324#0" />
+            <element signature="e#45351#45505#0" />
+            <element signature="e#45696#52748#0" />
+            <element signature="e#45696#45824#1" />
+            <element signature="e#45884#45915#0" />
+            <element signature="e#46747#46769#0" />
+            <element signature="e#47271#47317#0" />
+            <element signature="e#47357#47606#0" />
+            <element signature="e#47641#48063#0" />
+            <element signature="e#48090#48358#0" />
+            <element signature="e#49008#50676#0" />
+            <element signature="e#49057#50676#0" />
+            <element signature="e#49816#50676#0" />
+            <element signature="e#50503#50676#0" />
+            <element signature="e#50876#51260#0" />
+            <element signature="e#51295#51549#0" />
+            <element signature="e#51955#52006#0" />
+            <element signature="e#52450#52517#0" />
+            <element signature="e#52784#53283#0" />
+            <element signature="e#52784#52865#1" />
+            <element signature="e#53342#53406#1" />
+            <element signature="e#54121#54352#0" />
+            <element signature="e#55510#55631#0" />
+            <element signature="e#55782#55940#0" />
+            <element signature="e#55782#55851#1" />
+            <element signature="e#55977#56122#0" />
+            <element signature="e#55977#56034#1" />
+            <element signature="e#56192#57146#0" />
+            <element signature="e#56192#56303#1" />
+            <element signature="e#56443#56516#0" />
+            <element signature="e#57185#57421#0" />
+            <element signature="e#57185#57317#1" />
+            <element signature="e#57463#57661#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
