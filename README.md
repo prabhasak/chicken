@@ -1,37 +1,30 @@
-# IRL
+# The passive chicken and aggressive car problem
 
-Inverse Reinforcement Learning
+**Objective:** Inducing passive-aggressive behavior in self-driving cars using Inverse Reinforcement Learning (IRL), specifically Behavioral Cloning (BC). We use [Gym-Duckietown](https://github.com/duckietown/gym-duckietown), a self-driving car simulator for our experiments.
 
-## Rendering Environment
+**Framework, langauge, OS:** Pytorch >= 0.4.1, Python 3.7, Windows 8.1
 
-run python manual_control.py in PedestrianSimulation folder for viewing simulated pedestrain
+## Prerequisites
+The Gym-Duckietown repo has been cloned into the "PedestrianSimulation" folder. Please follow the instructions on the repo to install all requirements
 
-## Learning
-To Run the reinforcement training follow the commands
+## Training
+Add "PedestrianSimulation" to path in one of two ways:
 
-
-go to the following folder - /Users/yonarp/Projects/IRLTemp/gym-duckietown
-
-    From command line
+    #From command line
     export PYTHONPATH="${PYTHONPATH}:`pwd`"
 
-    OR 
-
-    From ipython/python
+    #From ipython/python
     import sys
-    sys.path.append('/Users/yonarp/Projects/IRL/PedestrianSimulation') 
+    sys.path.append('chicken/PedestrianSimulation') 
 
-
-navigate to the learning folder - /Users/yonarp/Projects/IRLTemp/gym-duckietown/learning
-
-Make sure your pytorch version is >= 0.4.1
-
-For reinforcement learning
-
+**Reinforcement learning:** code at PedestrianSimulation/learning/reinforcement/pytorch
     python -m reinforcement.pytorch.train_reinforcement
 
-For imitation learning
-
-    make folder named models in /Users/yonarp/Projects/IRLTemp/gym-duckietown/learning/imitation/pytorch
-
+**Imitation learning:** code at PedestrianSimulation/learning/imitation/pytorch
     python -m imitation.pytorch.train_imitation
+
+## Rendering Environment
+To see the simulated pedestrain in the "PedestrianSimulation" folder
+    python manual_control.py
+
+README last updated with instructions: Aug 2019
